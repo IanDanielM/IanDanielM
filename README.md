@@ -10,7 +10,7 @@
 
 - 💻 I’m currently working on A **Book Library Site**
 
-- 🤝🏻 I’m open to working on projects involving **E-Commerce**, **Data & Web Scrapping** **API Integration**  etc. 
+- 🤝🏻 I’m open to working on projects involving **E-Commerce**, **Data & Web Scrapping**, **API Integration**  etc. 
 
 - 📫 Reach me at : **Iandan874@gmail.com**
 
