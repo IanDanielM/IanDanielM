@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 🧑🏻‍💻 I’m currently learning **Python, , Django&Fast API**, 
+- 🧑🏻‍💻 I’m currently learning **Python,  Django&Fast API**, 
 
-- 💻 I’m currently working on [**Book Library Site**]
+- 💻 I’m currently working on A **Book Library Site**
 
 - 🤝🏻 I’m open to working on projects involving **E-Commerce**, **Data & Web Scrapping** **API Integration**  etc. 
 
