@@ -2,8 +2,6 @@
 <h1 align="center">Hey, I'm Ian Daniel</h1>
 <h3 align="center">Software/Data Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IanDanielM&label=Profile%20views&color=0e75b6&style=flat" alt="Ian Daniel" /> </p>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <h3 align="left">Connect with me:</h3>
