@@ -10,7 +10,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-[Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)
 ![AWS](https://img.shields.io/badge/-AmazonAWS-000?&logo=amazonaws)
