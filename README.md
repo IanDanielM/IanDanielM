@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanDanielM&label=Profile%20views&color=0e75b6&style=flat" alt="iandanielm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IanDanielM" alt="iandanielm" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iam_iandaniel" target="blank"><img src="https://img.shields.io/twitter/follow/iam_iandaniel?logo=twitter&style=for-the-badge" alt="iam_iandaniel" /></a> </p>
 
 - 🌱 I’m currently learning **BigData and Machine Learning**
