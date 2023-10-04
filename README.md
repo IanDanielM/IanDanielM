@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/iam_iandaniel" target="blank"><img src="https://img.shields.io/twitter/follow/iam_iandaniel?logo=twitter&style=for-the-badge" alt="iam_iandaniel" /></a> </p>
 
-- 🚀 Currently mastering the universe of BigData and Machine Learning.
+- 🚀 I’m on a mission, currently navigating the vast universe of BigData and Machine Learning.
 
-- 🤝 Eager to join forces on Data Engineering/Python projects
+- 🤝 I’m always ready to collaborate on exciting Data Engineering/Python projects.
 
-- 💡 Got a question about Python or Data Engineering? I’m your go-to source!
+- 💡 Python or Data Engineering queries? Consider me as your guy 😜😝
 
-- 📨 Reach out to me at iandanmathenge@gmail.com
+- 📨 Want to chat? Drop me a line at iandanmathenge@gmail.com
 
-- ⚡ Fun fact: Coffee has no effect on me, but that doesn’t stop me from enjoying a cup! 🤷‍♂️😒
+- ⚡ Fun fact: Despite coffee having no effect on me, I still relish every cup! 🤷‍♂️😒
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
