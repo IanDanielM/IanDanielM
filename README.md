@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Daniel</h1>
-<h3 align="center">An enthusiastic Data Engineer with occasional forays into the Backend realm.🤷‍♂️</h3>
+<h3 align="center"> 👨‍💻 An enthusiastic Data Engineer 📈📊 with occasional forays into the Backend realm.🌑🔙🤷‍♂️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IanDanielM&label=Profile%20views&color=0e75b6&style=flat" alt="iandanielm" /> </p>
 
